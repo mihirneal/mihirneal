@@ -5,9 +5,9 @@
 
 - 🏛 Junior **Computer Science 🖥 undergrad** 
 
-- 📖 I’m learning about **3D image segmentation using attention mechanism and deep learning models** 
+- 📖 Learning about **3D image segmentation & ML implementations for solving biological problems** 🧠
 
-- 🔭 I’m currently working on **Classifying Autism Spectrum via FACS using Deep Learning** 🧠
+- 🔭 Currently working on **improving current SOTA real-time dense monocular visual SLAM** 🗺
 
 - ✍️ I'm a **huge Space Fan** 🛰 and write about it for **Supercluster** 🚀
 
