@@ -5,7 +5,7 @@
 
 - 🏛 Junior **Computer Science 🖥 undergrad** 
 
-- 📖 Learning about **3D image segmentation & ML implementations for solving biological problems** 🧠
+- 📖 Learning about **Diffusion Models, 3D image segmentation & ML implementations for solving biological problems** 🧠
 
 - 🔭 Currently working on **improving current SOTA real-time dense monocular visual SLAM** 🗺
 
