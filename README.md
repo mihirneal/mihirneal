@@ -22,7 +22,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mihirneal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mihirneal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mihirtripathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihirtripathy" height="30" width="40" /></a>
 <a href="https://kaggle.com/mihirneal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mihirneal" height="30" width="40" /></a>
 <a href="https://instagram.com/mihirneal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihirneal" height="30" width="40" /></a>
 </p>
