@@ -7,7 +7,7 @@
 
 - 📖 Learning about **Diffusion Models, 3D image segmentation & ML implementations for solving biological problems** 🧠
 
-- 🔭 Currently working on **improving current SOTA real-time dense monocular visual SLAM** 🗺
+- 🔭 Currently working on **fMRI to image reconstructions on NSD Dataset** 🗺
 
 - ✍️ I'm a **huge Space Fan** 🛰 and write about it for **Supercluster** 🚀
 
@@ -15,13 +15,7 @@
 
 - 🌱 My life's goal is **to help humanity become a multi-planetary civilization 🪐**
 
-- 📫 How to reach me **mihir.neal@icloud.com**
+- 📫 How to reach me **hello@mihirneal.com**
 
 - ⚡ Fun fact: **Astronauts can see flashes in their eyes once they leave Earth's magnetosphere** 🌌
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mihirneal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mihirneal" height="30" width="40" /></a>
-<a href="https://kaggle.com/mihirneal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mihirneal" height="30" width="40" /></a>
-<a href="https://instagram.com/mihirneal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihirneal" height="30" width="40" /></a>
 </p>
