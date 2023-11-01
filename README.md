@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/mihirneal" target="blank"><img src="https://img.shields.io/twitter/follow/mihirneal?logo=twitter&style=for-the-badge" alt="mihirneal" /></a> </p>
 
-- 🏛 Junior **Computer Science 🖥 undergrad** 
+- 🏛 Senior **Computer Science 🖥 undergrad** 
 
-- 📖 Learning about **Diffusion Models, 3D image segmentation & ML implementations for solving biological problems** 🧠
+- 📖 Learning about **Diffusion Models, Neuroscience & ML implementations for solving biological problems** 🧠
 
 - 🔭 Currently working on **fMRI to image reconstructions on NSD Dataset** 🗺
 
