@@ -5,13 +5,11 @@
 
 - 🏛 Senior **Computer Science 🖥 undergrad** 
 
-- 📖 Learning about **Diffusion Models, Neuroscience & ML implementations for solving biological problems** 🧠
-
-- 🔭 Currently working on **fMRI to image reconstructions on NSD Dataset** 🗺
+- 🔭 Currently working on **fMRI foundation models** 🗺
 
 - 📫 How to reach me **hello@mihirneal.com**
   
 -  ✍️ I'm a **huge Space Fan** 🛰 and write about it for **Supercluster** 🚀
 
--  - 🌱 My life's goal is **to help humanity become a multi-planetary civilization 🪐**
+-  🌱 My life's goal is **to help humanity become a multi-planetary civilization 🪐**
 </p>
