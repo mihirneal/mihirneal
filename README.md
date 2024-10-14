@@ -5,7 +5,7 @@
 
 - Computer Science graduate
 
-- 🔭 Currently working on **fMRI foundation models** 
+- Currently working on **fMRI foundation models** 
 
 - Email: **hello [at] mihirneal [dot] com**
 
